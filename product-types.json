@@ -1,0 +1,35 @@
+{
+    productType: "Topwear",
+    image: "/images/topwear.svg",
+    bg: "#03A9F4",
+  },
+  {
+    productType: "Footwear",
+    image: "/images/footwear.svg",
+    bg: "#FFE8E8",
+  },
+  {
+    productType: "Bottomwear",
+    image: "/images/bottomwear.svg",
+    bg: "#FED11F26",
+  },
+  {
+    productType: "Watches",
+    image: "/images/watches.svg",
+    bg: "#D19A6E2E",
+  },
+  {
+    productType: "Accessories",
+    image: "/images/accessories.svg",
+    bg: "#6DAFDF1F",
+  },
+  {
+    productType: "Sportswear",
+    image: "/images/sportswear.svg",
+    bg: "#F3F3F3",
+  },
+  {
+    productType: "Beauty",
+    image: "/images/beauty.svg",
+    bg: "#FFB3B32B",
+  },
